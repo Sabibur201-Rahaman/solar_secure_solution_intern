@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px) {
+    body {
+      padding: 10px 10px 10px 10px;
+      font-family: monospace;
+    }
+  }
+  @media only screen and (min-width: 600px) {
+    body {
+      padding: 10px 375px 10px 230px;
+      font-family: monospace;
+    }
+  }
